@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Joao', '12147834', DATE '2022-03-18', 1, 2800);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Maria', '14234144', DATE '2022-03-19', 6, 3000);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Ricardo', '11548234', DATE '2022-03-20', 2, 3500);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Pedro', '12384174', DATE '2022-03-1', 4, 2000);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Everton', '12395844', DATE '2022-03-7', 0, 1500);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Richard', '12345134', DATE '2022-03-6', 3, 1800);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Manoel', '12852134', DATE '2022-03-5', 1, 2600);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Daiane', '12123534', DATE '2022-03-8', 1, 1700);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Ricardo', '12314784', DATE '2022-03-4', 2, 2300);
+INSERT INTO tb_client(name, cpf, birth_date, children, income) VALUES ('Bruno', '12348794', DATE '2022-03-25', 1, 4000);
